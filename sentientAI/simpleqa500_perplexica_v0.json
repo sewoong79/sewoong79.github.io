@@ -1,0 +1,11 @@
+{
+  "is_correct": 0.716,
+  "is_correct_std": 0.45093680266751346,
+  "is_incorrect": 0.168,
+  "is_incorrect_std": 0.3738662862575335,
+  "is_not_attempted": 0.116,
+  "is_not_attempted_std": 0.32022492095400695,
+  "score_std": 0.45093680266751346,
+  "num_questions": 500,
+  "score": 0.716
+}
